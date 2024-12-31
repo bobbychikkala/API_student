@@ -1,0 +1,4 @@
+requests~=2.32.3
+selenium
+jsonpath
+pytest~=8.3.4
